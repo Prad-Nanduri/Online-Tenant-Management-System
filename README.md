@@ -3,6 +3,10 @@ CMPSC 487W Project-3
 Name: Prad Nanduri
 Email: pfn5064@psu.edu
 
+Languages & Technologies Used:
+
+JavaScript, node.js, react.js, vue.js, tailwind, mongoDB, mongoose, express.js
+
 To run the project:
 
 1. In the terminal, first, change directory to backend using "cd backend" and then run "npm run dev."
