@@ -12,10 +12,9 @@
 
 # About the project
 
-- Engineered a scalable full-stack Tenant Management System using React.js, Node.js, Express.js, and MongoDB, featuring separate interfaces for property owners and tenants with responsive design using Vue.js and Tailwind CSS
-- Implemented advanced functionalities including property posting, tenant management, rent payment processing, contract creation, property search and filtering, and a built-in chat application
-- Developed RESTful APIs for CRUD operations, integrated JWT authentication for secure access, and incorporated Cloudinary for media management and Ethereal Email for communication
-- Demonstrated proficiency in full-stack development, database design, API integration, and user experience optimization, resulting in a comprehensive solution for real estate rental management
+- Built a scalable full-stack Tenant Management System using modern web technologies, including React.js for dynamic front-end, Node.js and Express.js for robust backend services, and MongoDB with Mongoose.js for efficient data modeling.
+- Engineered a responsive and intuitive user interface leveraging Vue.js and Tailwind CSS ensuring cross-browser compatibility.
+- Developed RESTful APIs to facilitate CRUD operations and real-time payment processing, implementing error and data validation.
 
 
 # To run the project:
